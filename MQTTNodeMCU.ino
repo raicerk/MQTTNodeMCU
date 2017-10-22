@@ -5,8 +5,8 @@ const int Led  = D2;
 
 char message_buff[100];
 
-const char* ssid = "ALMENDRA";
-const char* password = "15345826kR";
+const char* ssid = "NombreDeRedWIFI";
+const char* password = "ContraseñaWIFI";
 const char* mqtt_server = "mqtt.clubarduino.cl";
 
 WiFiClient espClient;
